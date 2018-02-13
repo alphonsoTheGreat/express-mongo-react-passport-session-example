@@ -1,0 +1,17 @@
+.draggable{
+    width: 30%;
+    height: 55%;
+    border-radius: 10%;
+    /* border: black solid 1px; */
+    cursor: pointer;
+    /* background-color: #363b5a */
+}
+
+.home_panel{
+    border: #363b5a solid 1px;
+    height: 100%;
+}
+
+.home_panel_heading{
+    background-color: #363b5a !important;
+}

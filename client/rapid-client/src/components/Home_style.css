@@ -1,0 +1,8 @@
+.logout_btn{
+    position: fixed;
+    top: 10px;
+    left: 10px;
+}
+.home_div{
+    height: inherit;
+}
