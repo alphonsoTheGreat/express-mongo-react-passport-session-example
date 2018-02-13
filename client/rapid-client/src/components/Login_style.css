@@ -7,10 +7,7 @@
     margin: 0 auto;
     margin-top: 140px;
     background: #363b5a;
-    /* background: -webkit-gradient(linear, left top, left bottom, color-stop(50%, #4b8fe1), color-stop(90%, #4f2fe4)); */
-    /* background: -webkit-linear-gradient(top, #4b8fe1 50%, #4f2fe4 90%); */
     background: -o-linear-gradient(top, #4b8fe1 50%, #4f2fe4 90%);
-    /* background: linear-gradient(to bottom, #4b8fe1 50%, #4f2fe4 90%); */
     border-radius: 5px;
     padding: 25px;
 }

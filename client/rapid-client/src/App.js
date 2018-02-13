@@ -1,8 +1,4 @@
 import './App.css';
-// import 'bootstrap/dist/css/bootstrap.css';
-// import 'bootstrap/dist/css/bootstrap-theme.css';
-// import axios from 'axios';
-import {Bootstrap, Grid, Row, Col} from 'react-bootstrap';
 import Home from './components/Home'
 import Login from './components/Login'
 

@@ -2,7 +2,6 @@ import React, { Component } from 'react';
 import './Home_style.css'
 import { Button } from 'react-bootstrap'
 import Thumbnail from './Thumbnail'
-import axios from 'axios'
 
 class Home extends Component {
 

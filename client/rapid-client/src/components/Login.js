@@ -2,7 +2,7 @@
 import React, { Component } from 'react';
 
 import { Button, FormControl  } from 'react-bootstrap'
-import Login_style from './Login_style.css'
+import './Login_style.css'
 
 class Login extends Component {
 

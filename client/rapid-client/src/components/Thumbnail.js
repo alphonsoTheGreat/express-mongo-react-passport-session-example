@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Draggable from 'react-draggable'
 import { Panel, Image, Label } from 'react-bootstrap'
-import thumbnail_style from './thumbnail.css'
+import './thumbnail.css'
 import userImg from './download.jpg'
 
 
